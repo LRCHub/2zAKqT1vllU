@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アイオクリ",
+  "base_artist": "miwa",
+  "createdAt": "2026-02-19T13:40:21.304791Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイオクリ",
+      "artist": "Miwa",
+      "has_synced": true,
+      "path": "select/01_アイオクリ_Miwa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイオクリ(movie ver.)",
+      "artist": "The STROBOSCORP",
+      "has_synced": true,
+      "path": "select/02_アイオクリ(movie_ver.)_The_STROBOSCORP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイオクリ",
+      "artist": "miwa",
+      "has_synced": false,
+      "path": "select/pl_01_アイオクリ_miwa.txt"
+    }
+  ]
+}
